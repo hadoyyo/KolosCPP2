@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737828781 source:c:\users\hubert\desktop\lab2-wielomiany\main.cpp
+	<iostream>
+	<regex>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737829524 source:c:\users\hubert\desktop\zadanie3 - samochody\main.cpp
+	<iostream>
+	<vector>
+	<tuple>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737833316 source:c:\users\hubert\desktop\daty\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<string>
+
