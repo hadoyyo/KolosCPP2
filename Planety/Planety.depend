@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737884752 source:c:\users\hubert\desktop\planety\main.cpp
+	<iostream>
+	<vector>
+	<tuple>
+	<algorithm>
+
